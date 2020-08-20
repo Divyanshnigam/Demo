@@ -4,6 +4,6 @@ First repository with git learning
 ## Heading 2
 ### Heading 3
 _Italic string_
-**Bold sting**
 
+**Bold sting**
 ![My Image Name](https://newevolutiondesigns.com/images/freebies/cool-wallpaper-2.jpg)
