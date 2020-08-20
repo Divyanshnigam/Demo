@@ -6,4 +6,4 @@ First repository with git learning
 _Italic string_
 **Bold sting**
 
-![My Image Name] (https://copyblogger.com/cdn-origin/images/ice-cubes.jpg)
+![My Image Name](https://newevolutiondesigns.com/images/freebies/cool-wallpaper-2.jpg)
